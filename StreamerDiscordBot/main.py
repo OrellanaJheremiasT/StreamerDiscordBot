@@ -1,4 +1,4 @@
-#y OrellanaJheremiasT
+#y Jheremias Orellana
 from webserver import keep_alive
 import os
 import datetime
