@@ -16,7 +16,7 @@ TWITCH_URL = "https://www.twitch.tv/your_channel"  # Change to your Twitch URL
 YOUTUBE_URL = "https://www.youtube.com/your_channel"  # Change to your YouTube URL
 INSTAGRAM_URL = "https://www.instagram.com/your_profile"  # Change to your Instagram URL
 MINECRAFT_NAME = "YourMinecraftName"  # Change to Minecraft username
-SERVER_OWNER = "ServerOwner"  
+SERVER_OWNER = "ServerOwner"  # Change to server owner's name
 
 @bot.event
 async def on_ready():
